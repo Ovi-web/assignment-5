@@ -37,16 +37,17 @@ Conditional rendering means rendering different UI elements. For example, showin
 ```tsx
 {loading ? <p>Loading...</p> : <TechCardList/>}
 
- ## ✨ Project Overview
-   ![Website Screenshot](https://github.com/Ovi-web/assignment-fitlog/blob/main/src/assets/screencapture-assignment-fitlog-omega-vercel-app-2026-10-05-00_44_42.png)](https://github.com/Ovi-web/assignment-5/blob/main/src/assets/screencapture-ovisdevstack-netlify-app-2026-10-05-00_44_21.png)
+## ✨ Project Overview
+
+![Website Screenshot](https://github.com/Ovi-web/assignment-5/blob/main/src/assets/screencapture-ovisdevstack-netlify-app-2026-10-05-00_44_21.png)
 ## 💻 Getting Started Locally
 
 To run this project on your local machine, follow these steps:
 
 ### First Clone the Repository
 ```bash
-git clone [https://github.com/Ovi-web/assignment-fitlog.git](https://github.com/Ovi-web/assignment-fitlog.git)
-cd assignment-fitlog
+git clone [https://github.com/Ovi-web/assignment-5.git](https://github.com/Ovi-web/assignment-5.git)
+cd assignment-5
 ### 2. Install Dependencies
 Make sure you have Node.js installed, then run:
 npm install
