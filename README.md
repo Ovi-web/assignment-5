@@ -36,3 +36,30 @@ Unique keys help React identify which items have changed, been added, or been re
 Conditional rendering means rendering different UI elements. For example, showing a fallback loading message when data is being fetched:
 ```tsx
 {loading ? <p>Loading...</p> : <TechCardList/>}
+
+ ## ✨ Project Overview
+   ![Website Screenshot][(https://github.com/Ovi-web/assignment-fitlog/blob/main/src/assets/screencapture-assignment-fitlog-omega-vercel-app-2026-10-05-00_44_42.png)](https://github.com/Ovi-web/assignment-5/blob/main/src/assets/screencapture-ovisdevstack-netlify-app-2026-10-05-00_44_21.png)
+## 💻 Getting Started Locally
+
+To run this project on your local machine, follow these steps:
+
+### First Clone the Repository
+```bash
+git clone [https://github.com/Ovi-web/assignment-fitlog.git](https://github.com/Ovi-web/assignment-fitlog.git)
+cd assignment-fitlog
+### 2. Install Dependencies
+Make sure you have Node.js installed, then run:
+npm install
+# or
+yarn install
+# or
+pnpm install
+### 3. Run the Development Server
+Start the local development server:
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+### 4. Open in Browser
+Open http://localhost:3000 with your browser to see the application running.
