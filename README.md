@@ -1,3 +1,7 @@
+## ✨ Project Overview
+
+![Website Screenshot](https://github.com/Ovi-web/assignment-5/blob/main/src/assets/screencapture-ovisdevstack-netlify-app-2026-10-05-00_44_21.png)
+
 # Dev Stack
 
 Curated tools, technologies, and resources for developers building modern software. Compare options, explore frameworks, and build your ideal development stack.
@@ -37,9 +41,7 @@ Conditional rendering means rendering different UI elements. For example, showin
 ```tsx
 {loading ? <p>Loading...</p> : <TechCardList/>}
 
-## ✨ Project Overview
 
-![Website Screenshot](https://github.com/Ovi-web/assignment-5/blob/main/src/assets/screencapture-ovisdevstack-netlify-app-2026-10-05-00_44_21.png)
 ## 💻 Getting Started Locally
 
 To run this project on your local machine, follow these steps:
