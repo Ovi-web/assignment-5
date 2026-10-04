@@ -1,7 +1,7 @@
 # Dev Stack
 
 Curated tools, technologies, and resources for developers building modern software. Compare options, explore frameworks, and build your ideal development stack.
-
+## Live Link: https://ovisdevstack.netlify.app/
 ## Technologies Used
 - React (TypeScript)
 - Tailwind CSS
